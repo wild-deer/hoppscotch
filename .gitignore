@@ -189,3 +189,4 @@ devenv.local.nix
 .aider*
 .windsurfrules
 .agents
+hoppscotch.dump
